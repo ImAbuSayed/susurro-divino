@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/susurro-divino/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Susurro divino](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/susurro-divino/) |
+| **Get License** | [Music Rights & Licensing for Susurro divino](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/susurro-divino/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, la noche entera te estoy mirando, yeah
+> Con ese flow de la calle me estás llamando
+> Tú eres la reina del club, eso está claro
+> Y yo tu rey en la sombra, vente a mi lado
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
